@@ -27,7 +27,7 @@ angle_enable_gl_desktop_frontend = true
 angle_use_spirv_gen_through_glslang = true
 
 # SwiftShader is loaded as the system Vulkan driver on Android, not compiled by ANGLE
-angle_enable_swiftshader = false
+angle_enable_swiftshader = true
 
 #angle_enable_commit_id = false
 
